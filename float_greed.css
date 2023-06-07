@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+}
+.row {
+    border: solid   blue;
+    height: 150px;
+    font-size: 0px;
+    
+}
+.col {
+    border:solid 2px black;
+    float:left;
+    height: 145px;
+    width: 33.33%;
+}
+.col2 {
+    border:solid 2px navy;
+    float:left;
+    height: 100%;
+    width: 50%;
+
+}
+.row2 {
+    border:solid 2px yellow;
+    height:50%;
+}
+.col3 {
+    border:solid 2px orange;
+    float:left;
+    height: 100%;
+    width: 50%;
+
+}
+.row3 {
+    border:solid 2px yellow;
+    height:50%;
+    width:100%;
+}
+.col4 {
+    border:solid 1px green;
+    float:left;
+    height:100%;
+    width:30%;
+}
+.row4 {
+    border:solid 1px green;
+    height:50%;
+    width:100%;
+    
+}
+.col5 {
+    border:solid 3px purple;
+    float:left;
+    height:100%;
+    width:20%;
+}
+.col6 {
+    border:solid 3px yellow;
+    float:left;
+    height:100%;
+    width:20%;
+}
+.col7 {
+    border:solid 3px skyblue;
+    float:left;
+    height:100%;
+    width:30%;
+}
+.row7 {
+    border:solid 1px yellow;
+    height:33%;
+    width:100%;
+
+}
+.col8 {
+    border:solid 2px yellow;
+    float:left;
+    height: 100%;
+    width: 50%;
+
+}
+.row8 {
+    border:solid 1px blue;
+    height:50%;
+}
+.col9 {
+    border:solid 2px brown;
+    float:left;
+    height: 100%;
+    width: 50%;
+
+}
+.row9 {
+    border:solid 1px purple;
+    height:50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

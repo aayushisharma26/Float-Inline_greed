@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+}
+.row {
+    border: solid  red;
+    height: 150px;
+    font-size: 0px;
+}
+.col {
+    border:solid 1px black;
+    display:inline-block;
+    height: 150px;
+    width: 33.33%;
+}
+.col2 {
+    border:solid 1px black;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+}
+.row2 {
+    border:solid 2px blue;
+    height:50%;
+}
+.col3 {
+    border:solid 1px green;
+    display:inline-block;
+    height:100%;
+    width:30%;
+}
+.row3 {
+    border:solid 1px green;
+    height:50%;
+    width:100%;
+    
+}
+.col4 {
+    border:solid 3px purple;
+    display:inline-block;
+    height:100%;
+    width:20%;
+}
+.col4-2 {
+    border:solid 3px yellow;
+    display:inline-block;
+    height:100%;
+    width:20%;
+}
+.col5 {
+    border:solid 3px skyblue;
+    display:inline-block;
+    height:100%;
+    width:30%;
+}
+.row5 {
+    border:solid 1px yellow;
+    height:34%;
+    width:100%;
+
+}
+.col6 {
+    border:solid 2px blue;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+
+}
+.row6 {
+    border:solid 1px blue;
+    height:50%;
+}
+.col7 {
+    border:solid 2px brown;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+
+}
+.row7 {
+    border:solid 1px purple;
+    height:50%;
+}
+
